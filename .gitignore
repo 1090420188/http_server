@@ -1,0 +1,7 @@
+# no .o files
+*.o
+#no .out files
+*.out
+#ignore all file in the build
+build
+
