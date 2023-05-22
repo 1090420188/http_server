@@ -1,1 +1,8 @@
-dasdsad
+#include <stdio.h>
+
+
+void main()
+{
+
+i	printf();
+}
